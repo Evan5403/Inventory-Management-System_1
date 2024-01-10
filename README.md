@@ -23,6 +23,6 @@ Application Server: XAMPP, LAMP, MAMP
 1. Clone or download files. Add them to your Root folder if you are using XAMMP the location is "C:\xampp\htdocs\Inventory-Management-System_1".
 2. Open PhpMyAdmin from your local Application Server.
 3. Create new database and name it as "inventory2"
-4. Import stock.sql to your stock database.
+4. Import inventory2.sql to your inventory2 database.
 5. Turn On Apache and MySQL on your Application Server Control Panel.
 6. Your system show be found on http://localhost/InventorySystem/
