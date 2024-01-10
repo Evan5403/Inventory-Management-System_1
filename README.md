@@ -20,7 +20,7 @@ PHP version 5.6 or newer version is recomended
 Application Server: XAMPP, LAMP, MAMP
 
 # Installation
-1. Clone or download files. Add them to your Root folder if you are using XAMMP the location is "C:\xampp\htdocs\InventorySystem".
+1. Clone or download files. Add them to your Root folder if you are using XAMMP the location is "C:\xampp\htdocs\Inventory-Management-System_1".
 2. Open PhpMyAdmin from your local Application Server.
 3. Create new database and name it as "inventory2"
 4. Import stock.sql to your stock database.
