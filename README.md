@@ -1,7 +1,7 @@
 # System Features
 ### User Management
 - Add new user detail
--View, Update, and remove user information
+- View, Update, and remove user information
 ### Product Management
 - Add product
 - View, update and delete product
