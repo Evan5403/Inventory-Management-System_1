@@ -25,4 +25,4 @@ Application Server: XAMPP, LAMP, MAMP
 3. Create new database and name it as "inventory2"
 4. Import inventory2.sql to your inventory2 database.
 5. Turn On Apache and MySQL on your Application Server Control Panel.
-6. Your system show be found on http://localhost/InventorySystem/
+6. Your system should be found on http://localhost/InventorySystem/
